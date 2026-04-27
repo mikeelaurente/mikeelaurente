@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&color=E91E8C&center=true&vCenter=true&width=520&lines=Full-stack+Developer+;Building+clean+systems+;UI%2FUX+focused+development+;Vue+·+React+·+Node.js+;Always+learning+"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&color=E91E8C&center=true&vCenter=true&width=520&lines=Building+clean+systems+;UI%2FUX+focused+development+;Vue+·+React+·+Node.js+;Always+learning+"/>
 </p>
 
 ---
@@ -33,86 +33,54 @@
 
 ## ✦ 🧸 Tech Stack
 
+<details open align="center">
+<summary><b>💻 Frontend</b></summary>
 <br/>
-
-<table align="center">
-<tr>
-<td align="center" width="250px">
-
-### 💻 Frontend
-
-<img src="https://img.shields.io/badge/Vue-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
+<img src="https://img.shields.io/badge/Vue-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-</td>
-
-<td align="center" width="250px">
-
-### ⚡ State & API 
-
-<img src="https://img.shields.io/badge/Pinia-F6C177?style=for-the-badge&logo=pinia&logoColor=333"/><br/>
-<img src="https://img.shields.io/badge/Zustand-333333?style=for-the-badge&logo=react&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Pinia-F6C177?style=for-the-badge&logo=pinia&logoColor=333"/>
+<img src="https://img.shields.io/badge/Zustand-333333?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+<br/><br/>
+</details>
 
-</td>
-
-<td align="center" width="250px">
-
-### 🛠 Backend
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge"/><br/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge"/><br/>
-<img src="https://img.shields.io/badge/Java-ff9aa2?style=for-the-badge"/><br/>
-<img src="https://img.shields.io/badge/C%23-ffc3a0?style=for-the-badge"/>
-
-</td>
-</tr>
-</table>
-
+<details open align="center">
+<summary><b>🛠️ Backend</b></summary>
 <br/>
-
-<table align="center">
-<tr>
-
-<td align="center" width="300px">
-
-### 🧬 ORM & Auth
-
-<img src="https://img.shields.io/badge/Drizzle-FF4D8D?style=for-the-badge&logo=drizzle&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ff9aa2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C%23-ffc3a0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Drizzle-FF4D8D?style=for-the-badge&logo=drizzle&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<br/><br/>
+</details>
 
-</td>
-
-<td align="center" width="300px">
-
-### 🗄 Database
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><br/>
+<details open align="center">
+<summary><b>🗄️ Database</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</td>
-
-</tr>
-</table>
+<br/><br/>
+</details>
 
 ---
 
 ## ✦ ⭐ GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikeelaurente&show_icons=true&theme=rose_pine&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeelaurente&theme=rose_pine&hide_border=true" height="160"/>
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mikeelaurente&show_icons=true&theme=rose_pine&hide_border=true" height="160" width="100%"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeelaurente&theme=rose_pine&hide_border=true" height="160" width="100%"/></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mikeelaurente&theme=rogue&hide_border=true" width="100%"/></td>
+  </tr>
+</table>
 
-<p align="center">
-   ──── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ──── 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeelaurente&layout=compact&theme=rose_pine&hide_border=true&langs_count=6" width="500"/>
-</p>
+<p align="center">──── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ────</p>
 
 ---
 
