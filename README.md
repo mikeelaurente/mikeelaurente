@@ -33,10 +33,6 @@
 
 ## ✦ 🧸 Tech Stack
 
-<p align="center">
-  <i>modular • scalable • maintainable</i>
-</p>
-
 <br/>
 
 <table align="center">
@@ -108,6 +104,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikeelaurente&show_icons=true&theme=rose_pine&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeelaurente&theme=rose_pine&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+   ──── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ──── 
 </p>
 
 <p align="center">
