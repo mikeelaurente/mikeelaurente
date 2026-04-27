@@ -17,7 +17,6 @@ jobs:
         with:
           github_user_name: mikeelaurente
           outputs: |
-            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
             dist/github-contribution-grid-snake.svg?color_snake=#f48fb1&color_dots=#fce4ec,#f8bbd0,#f48fb1,#ec407a,#ad1457
 
