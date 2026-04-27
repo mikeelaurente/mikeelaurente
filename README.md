@@ -103,16 +103,6 @@
 
 ---
 
-## ✦ 💫 Focus
-
-<p align="center">
- 🌷 clean, maintainable code <br/>
- 💕 scalable backend systems <br/>
- 💮 thoughtful UI/UX shaped by visual design background
-</p>
-
----
-
 ## ✦ ⭐ GitHub Activity
 
 <p align="center">
@@ -126,7 +116,7 @@
 
 ---
 
-## ✦ 🌈 Contribution Snake
+## ✦ 💫 Contribution Snake
 
 <p align="center">
   <i>watch it grow over time :☆ﾟ.</i>
