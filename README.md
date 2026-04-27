@@ -148,6 +148,10 @@ Full-stack developer who builds
 <br/>
 
 <p align="center">
+  ✦ contribution flow • continuous growth ✦
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/mikeelaurente/Mikee-/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
