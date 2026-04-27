@@ -3,180 +3,157 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&color=E91E8C&center=true&vCenter=true&width=500&lines=Full-stack+Developer+✨;Vue+·+React+·+Node.js+🌱;Building+clean+systems+💻;UI/UX+focused+development+🎀;Always+learning+🌷"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&color=E91E8C&center=true&vCenter=true&width=520&lines=Full-stack+Developer+✨;Building+clean+systems+💻;UI%2FUX+focused+development+🎀;Vue+·+React+·+Node.js+🌱;Always+learning+🌷"/>
 </p>
 
 ---
 
-## ✦ 🌸 ABOUT ME
+<h2 align="center">🌸 Mikee Laurente</h2>
 
 <p align="center">
+  <i>
+    Full-stack developer crafting clean, scalable systems — 
+    with a background in digital illustration that shapes my eye for UI/UX
+  </i>
+</p>
 
-✨ **Mikee Laurente** ✨
-
-Full-stack developer who builds **clean, scalable, and meaningful systems** 🌱
-
-🎀 UI/UX focused &nbsp;·&nbsp; ⚡ performance-driven &nbsp;·&nbsp; 🧠 clean architecture mindset
-
+<p align="center">
+🎀 UI/UX focused &nbsp;•&nbsp; ⚡ performance-driven &nbsp;•&nbsp; 🧠 clean architecture
 </p>
 
 ---
 
-## ✦ 🔨 CURRENTLY BUILDING
+## ✦ 🌷 Currently Building
 
 <p align="center">
-
-🚧 coming soon...
-
+  <i>something exciting is on the way...</i> 🚧
 </p>
 
 ---
 
-## ✦ 🧸 TECH STACK
+## ✦ 🧸 Tech Stack
 
 <p align="center">
-  <i>modular • scalable • clean architecture</i>
+  <i>modular • scalable • maintainable</i>
 </p>
 
 <br/>
 
 <table align="center">
-
 <tr>
-<td align="center" width="260px">
+<td align="center" width="300px">
 
 ### 💻 Frontend
-<img src="https://img.shields.io/badge/Vue-41B883?style=flat-square&logo=vuedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 </td>
 
-<td align="center" width="260px">
+<td align="center" width="300px">
 
-### ⚡ State
-<img src="https://img.shields.io/badge/Pinia-F6C177?style=flat-square&logo=pinia&logoColor=333"/>
-<img src="https://img.shields.io/badge/Zustand-333333?style=flat-square&logo=react&logoColor=white"/>
-
-</td>
-
-<td align="center" width="260px">
-
-### 🔗 API
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
+### ⚡ State & API
+<img src="https://img.shields.io/badge/Pinia-F6C177?style=for-the-badge&logo=pinia&logoColor=333"/>
+<img src="https://img.shields.io/badge/Zustand-333333?style=for-the-badge&logo=react&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
 
 </td>
-</tr>
 
-<tr>
-
-<td align="center">
+<td align="center" width="300px">
 
 ### 🛠 Backend
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+<br/>
+
+### 🧬 ORM & Auth
+<img src="https://img.shields.io/badge/Drizzle-FF4D8D?style=for-the-badge&logo=drizzle&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
 </td>
-
-<td align="center">
-
-### 🧬 ORM
-<img src="https://img.shields.io/badge/Drizzle-FF4D8D?style=flat-square&logo=drizzle&logoColor=white"/>
-
-</td>
-
-<td align="center">
-
-### 🔐 Auth
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-
-</td>
-
 </tr>
 
 <tr>
-
 <td align="center" colspan="3">
 
 ### 🗄 Database
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </td>
-
 </tr>
-
 </table>
 
 ---
 
-## ✦ 🌸 WHAT I FOCUS ON
+## ✦ 🎯 Focus
 
 <p align="center">
-
-🧠 clean, maintainable code &nbsp;·&nbsp; ⚡ scalable backend systems &nbsp;·&nbsp; 🎨 thoughtful UI/UX design
-
+🧠 clean, maintainable code <br/>
+⚡ scalable backend systems <br/>
+🎨 thoughtful UI/UX shaped by visual design background
 </p>
 
 ---
 
-## ✦ 📊 GITHUB ACTIVITY
+## ✦ 📊 GitHub Activity
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mikeelaurente&show_icons=true&theme=rose_pine&hide_border=true" height="160"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeelaurente&theme=rose_pine&hide_border=true" height="160"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mikeelaurente&show_icons=true&theme=rose_pine&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeelaurente&theme=rose_pine&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeelaurente&layout=compact&theme=rose_pine&hide_border=true&langs_count=6" width="480"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeelaurente&layout=compact&theme=rose_pine&hide_border=true&langs_count=6" width="500"/>
 </p>
 
 ---
 
-## ✦ 🐍 CONTRIBUTION SNAKE
+## ✦ 🐍 Contribution Snake
 
 <p align="center">
-  ✦ watch my contribution grow :D ✦
+  <i>watch it grow over time ✨</i>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikeelaurente/Mikee-/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikeelaurente/Mikee-/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/mikeelaurente/Mikee-/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/mikeelaurente/Mikee-/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
 
 ---
 
-## ✦ 🌷 CONNECT WITH ME
+## ✦ 🌐 Connect
 
 <p align="center">
-
 <a href="https://github.com/mikeelaurente">
-  <img src="https://img.shields.io/badge/GitHub-fce4ec?style=flat-square&logo=github&logoColor=ad1457"/>
+  <img src="https://img.shields.io/badge/GitHub-fce4ec?style=for-the-badge&logo=github&logoColor=ad1457"/>
 </a>
-&nbsp;
 <a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-f8bbd0?style=flat-square&logo=vercel&logoColor=ad1457"/>
+  <img src="https://img.shields.io/badge/Portfolio-f8bbd0?style=for-the-badge&logo=vercel&logoColor=ad1457"/>
 </a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-fce4ec?style=flat-square&logo=linkedin&logoColor=ad1457"/>
+<a href="www.linkedin.com/in/mikee-laurente-0773313a6">
+  <img src="https://img.shields.io/badge/LinkedIn-fce4ec?style=for-the-badge&logo=linkedin&logoColor=ad1457"/>
 </a>
-
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mikeelaurente&style=flat-square&color=E91E8C&label=visitors" alt="visitor counter"/>
+  <sub>
+    🎨 <a href="https://www.instagram.com/keeeykss/?igsh=MXptYjJzc3Ewajh5&fbclid=IwY2xjawRcJARleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAEwAAEegO6102woonRroniS1kwByV8j-Df8MsxEWa3e34UBw60__eZqcJsPZlYJrfA_aem_6cF74T94ApkeCLUdr9sMpg">view my illustration work</a>
+  </sub>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mikeelaurente&style=for-the-badge&color=E91E8C&label=visitors"/>
 </p>
 
 ---
 
 <p align="center">
-🌸 "simple, clean, and built to last." 🌸
+  <i>🌸 simple, clean, and built to last 🌸</i>
 </p>
