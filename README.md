@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mikeelaurente/Mikee-/refs/heads/main/assets/mikee_banner.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/mikeelaurente/Mikee-/refs/heads/main/assets/mikee_pink_banner.gif" width="100%" />
 </p>
 
 <p align="center">
