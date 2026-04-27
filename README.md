@@ -131,7 +131,7 @@ Full-stack developer who builds
 
 ---
 
-## ✦ 📊 GITHUB STATS
+## ✦ 📊 GITHUB ACTIVITY
 
 <p align="center">
 
@@ -145,7 +145,11 @@ Full-stack developer who builds
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeelaurente&layout=compact&theme=rose_pine&hide_border=true&langs_count=6" width="480"/>
 </p>
 
----
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mikeelaurente/Mikee-/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ## ✦ 🌷 CONNECT WITH ME
 
