@@ -2,7 +2,7 @@
 
 Full-Stack Developer with hands-on experience building scalable web applications, secure backend systems, and AI-powered software through professional internship and academic projects.
 
-📍 Philippines &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/mikee-laurente-0773313a6) &nbsp;|&nbsp; mikeelaurente4@gmail.com
+📍 Philippines &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/mikee-laurente-0773313a6) &nbsp;|&nbsp; mikeelaurente9@gmail.com
 
 ---
 
